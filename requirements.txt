@@ -1,0 +1,11 @@
+﻿opencv-python>=4.9
+numpy>=1.24
+matplotlib>=3.8
+pillow>=10.2
+imutils>=0.5.4
+# ?乩蝙??OCR嚗圾?支誑銝酉閫?蒂摰?蝟餌絞??Tesseract
+# pytesseract>=0.3.10
+# ?乩蝙?其葡瘚??鋆??航???? gstreamer-python 蝬???ffmpeg-python
+# ffmpeg-python>=0.2.0
+# scipy>=1.11  # ?交?瞈暹郭/?雿喳??瘙?
+# filterpy>=1.4.5  # ?乩蝙??Kalman
